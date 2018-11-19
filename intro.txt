@@ -1,0 +1,16 @@
+<span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat intro.txt
+Hello there! I'm Victoria, a software developer based in Berlin.
+
+<span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat education_and_skillset.txt
+I graduated from Beuth University in Media Informatics. My primary languages are Python and Java. Find out more about my background on <a href="https://Xing.com">Xing</a> and check out my projects on <a href="https://github.com/frontsidekante">Github!</a>
+
+<span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat 3_things_I've_learned_last_week.txt
+- <a href="https://simonsingh.net/books/fermats-last-theorem/">Math history</a> is quite intriguing
+- Babbel doesn't officialy support Linux
+- Some cool <a href="https://masterthehandpan.teachable.com/p/handpanlessons">handpan patterns</a>
+
+<span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat contact.txt
+If you have any questions, job offers or cookies, feel free to contact me via <a href="https://Xing.com">Xing</a>.
+
+
+<p id="credits">Credits for terminal window look: <a href="https://samphippen.com/">Sam Phippen</a></p>

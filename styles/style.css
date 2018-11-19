@@ -1,0 +1,32 @@
+body {
+  background-color: #000
+}
+#console {
+  font-family: courier, monospace;
+  color: #fff;
+  width:750px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:100px;
+  font-size:14px;
+}
+
+#credits {
+  font-size:12px;
+  opacity: 0.7;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+a {
+  color: #0bc;
+  text-decoration: none;
+}
+#user {
+  color: #0f0;
+}
+#dollar {
+  color: #0bc;
+}
+#tilde {
+  color: #ff0096;
+}
