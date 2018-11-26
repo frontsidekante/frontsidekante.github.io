@@ -7,7 +7,7 @@ I graduated from Beuth University in Media Informatics. My primary languages are
 <span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat 3_things_I've_learned_last_week.txt
 - How to host your website with <a href="https://pages.github.com/">GitHubPages</a>
 - <a href="https://boardgamegeek.com/boardgame/28720/brass-lancashire">Brass: Lancashire</a> has a high Board Game Rank for a reason. 
-  Totally not saying that because <a href="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif">I won</a>.
+  Totally not saying that because <a href="https://giphy.com/gifs/dancing-adventure-time-bmo-pO4UHglOY2vII/tile">I won</a>.
 - There is a new <a href="https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html">BERT</a> in town and it's quite mighty.
 
 <span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat contact.txt
