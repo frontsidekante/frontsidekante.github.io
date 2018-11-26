@@ -5,9 +5,9 @@ Hello there! I'm Victoria, a software developer based in Berlin.
 I graduated from Beuth University in Media Informatics. My primary languages are Python and Java. Find out more about my background on <a href="https://www.xing.com/profile/Victoria_Koehring">Xing</a> and check out my projects on <a href="https://github.com/frontsidekante">Github!</a>
 
 <span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat 3_things_I've_learned_last_week.txt
-- <a href="https://simonsingh.net/books/fermats-last-theorem/">Math history</a> is quite intriguing
-- Babbel doesn't officialy support Linux
-- Some cool <a href="https://masterthehandpan.teachable.com/p/handpanlessons">handpan patterns</a>
+- How to host your website with <a href="https://pages.github.com/">GitHubPages</a>
+- <a href="https://boardgamegeek.com/boardgame/28720/brass-lancashire">Brass: Lancashire</a> has a high Board Game Rank for a reason. Totally not saying that because <a href="https://github.com/frontsidekante/frontsidekante.github.io/tree/master/images/BMO">I won</a>.
+- There is a new <a href="https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html">BERT</a> in town and it's quite mighty.
 
 <span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat contact.txt
 If you have any questions, job offers or cookies, feel free to contact me via <a href="https://www.xing.com/profile/Victoria_Koehring">Xing</a>.
