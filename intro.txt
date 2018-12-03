@@ -11,7 +11,6 @@ I graduated from Beuth University in Media Informatics. My primary languages are
 - There is a new <a href="https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html">BERT</a> in town and it's quite mighty.
 
 <span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat contact.txt
-If you have any questions, job offers or cookies, feel free to contact me via <a href="https://www.xing.com/profile/Victoria_Koehring">Xing</a>.
-
+If you have any questions, job offers or cookies, feel free to contact me at <a href="mailto:victoria@berlindev.com">victoria@berlindev.com</a> 
 
 <p id="credits">Credits for terminal window look: <a href="https://samphippen.com/">Sam Phippen</a></p>
