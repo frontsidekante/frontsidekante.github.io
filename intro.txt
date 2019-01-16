@@ -2,13 +2,12 @@
 Hello there! I'm Victoria, a software developer based in Berlin.
 
 <span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat education_and_skillset.txt
-I graduated from Beuth University in Media Informatics. My primary languages are Python and Java. Find out more about my background on <a href="https://www.xing.com/profile/Victoria_Koehring">Xing</a> and check out my projects on <a href="https://github.com/frontsidekante">Github!</a>
+I graduated from Beuth University in Media Informatics. My primary languages are Python and Java. Find out more about my background on <a href="https://www.xing.com/profile/Victoria_Koehring">Xing</a> and check out my projects on <a href="https://github.com/frontsidekante">Github</a>, where you can even find instructions to build your very own <a href="https://github.com/frontsidekante/balanceboard-arduino-footmouse">footmouse</a>.  
 
-<span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat 3_things_I've_learned_last_week.txt
+<span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat 3_things_I've_learned_recently.txt
 - How to host your website with <a href="https://pages.github.com/">GitHubPages</a>
-- <a href="https://boardgamegeek.com/boardgame/28720/brass-lancashire">Brass: Lancashire</a> has a high Board Game Rank for a reason. 
-  Totally not saying that because <a href="https://66.media.tumblr.com/71b8b6fd0f0a78a11a1dece36268565c/tumblr_mxe5f0FDI61qgik10o1_400.gif">I won</a>.
-- There is a new <a href="https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html">BERT</a> in town and it's quite mighty.
+- Watching the <a href="https://www.youtube.com/watch?v=KCPfV9Elx2I">African Knifefish</a> - Yay! Playing <a href="https://boardgamegeek.com/boardgame/175549/salem-1692">social deduction games</a> - Nay!
+- <a href="https://en.wikipedia.org/wiki/Einar_Schleef">Einar Schleef</a> brought the choir back. You're welcome!
 
 <span id="user">victoria@berlindev:</span><span id="tilde"> ~ </span><span id="dollar" >$ </span>cat contact.txt
 If you have any questions, job offers or cookies, feel free to contact me at <a href="mailto:victoria@berlindev.com">victoria@berlindev.com</a> 
